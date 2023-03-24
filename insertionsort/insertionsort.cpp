@@ -50,3 +50,7 @@ void insertsort() {
 		}
 	}
 }
+
+void display() {
+
+}
