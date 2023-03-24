@@ -29,7 +29,7 @@ void input() {
 	}
 }
 
-void insertsort() {
+void insertionsort() {
 	int temp;
 	int j;
 
@@ -64,6 +64,6 @@ void display() {
 int main() 
 {
 	input();
-	insertsort();
+	insertionsort();
 	display();
 }
