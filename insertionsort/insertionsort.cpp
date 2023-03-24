@@ -64,4 +64,5 @@ void display() {
 int main() 
 {
 	input();
+	insertsort();
 }
