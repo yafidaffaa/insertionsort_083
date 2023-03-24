@@ -57,6 +57,6 @@ void display() {
 	cout << "=================================" << endl;
 
 	for (int j = 0; j < n; j++) {
-
+		cout << arr[j] << " ";
 	}
 }
