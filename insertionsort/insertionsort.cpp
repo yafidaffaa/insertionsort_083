@@ -45,5 +45,8 @@ void insertsort() {
 		arr[j + 1] = temp;
 
 		cout << "\nPass " << i << ": ";
+		for (int k = 0; k < n; k++) {
+			cout << arr[k] << " ";
+		}
 	}
 }
